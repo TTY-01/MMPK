@@ -1,0 +1,16 @@
+﻿  bytemap.cpp
+  Generating Code...
+  Compiling...
+  rand.cpp
+  paikannus.cpp
+  movegen.cpp
+  init.cpp
+  eval.cpp
+d:\valtt\dev\paikannus\paikannus\eval.cpp(64): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\valtt\dev\paikannus\paikannus\eval.cpp(65): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\valtt\dev\paikannus\paikannus\eval.cpp(66): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+d:\valtt\dev\paikannus\paikannus\eval.cpp(67): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  data.cpp
+  Generating Code...
+  paikannus.vcxproj -> D:\valtt\dev\paikannus\Debug\paikannus.exe
+  paikannus.vcxproj -> D:\valtt\dev\paikannus\Debug\paikannus.pdb (Partial PDB)
